@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit Kumar Singh</h1>
-<h3 align="center"> Aspiring AI/ML Engineer | Machine Learning • Data Science • Web Development</h3>
+<h3 align="center"> AI/ML | Machine Learning • Data Science • Web Development</h3>
 
 - 👨‍💻 All of my projects are available at (https://mohhit.netlify.app/
 
