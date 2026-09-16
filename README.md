@@ -1,18 +1,56 @@
-<h1 align="center">Hi 👋, I'm Mohit Kumar Singh</h1>
-<h3 align="center"> AI | Machine Learning • Data Science • Web Development</h3>
+<div align="center">
 
-- 👨‍💻 All of my projects are available at (https://mohhit.netlify.app/
+![Visitor Count](https://komarev.com/ghpvc/?username=myselfmohit-code&style=flat-square&color=58a6ff)
 
-- 📫 How to reach me **mohitkumarsingh.tech@gmail.com** 
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohit-kumar-singh-063904263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohit-kumar-singh-063904263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-</p>
- 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+# 👋 Hi, I'm Mohit Kumar Singh!
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=myselfmohit-code&show_icons=true&locale=en&layout=compact" alt="myselfmohit-code" /></p>
+> Turning data into decisions with statistical rigor
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myselfmohit-code&" alt="myselfmohit-code" /></p>
+## 🌟 About Me
+
+- 🔭 **Currently building:** Develop a professional web-based data analysis platform that enables users to upload datasets and perform automated data analysis through an intuitive and interactive interface.
+- 🌱 **Learning:** Machine Learning | Java
+- 👯 **Open to:** applied Internship for ML And Data Science
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-7334b2?style=for-the-badge) ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Frontend](https://img.shields.io/badge/Frontend-9434b2?style=for-the-badge)
+
+**Frameworks & Libraries:**  
+![Scikit-learn](https://img.shields.io/badge/Scikit-learn-b2347f?style=for-the-badge) ![Matplotlib](https://img.shields.io/badge/Matplotlib-b2b234?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-44b234?style=for-the-badge) ![Numpy](https://img.shields.io/badge/Numpy-79b234?style=for-the-badge) ![Pandas](https://img.shields.io/badge/Pandas-b29734?style=for-the-badge)
+
+**Tools & DevOps:**  
+![Jupyter](https://img.shields.io/badge/Jupyter-4bb234?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+**Databases:**  
+![MySql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Mohit Kumar Singh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=myselfmohit-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=myselfmohit-code&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myselfmohit-code&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=myselfmohit-code&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-kumar-singh-063904263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://mohhit.netlify.app/\)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitkumarsingh.tech@gmail.com)
+
+</div>
+
+
+<!-- Generated by ReadmeDesign.com -->
